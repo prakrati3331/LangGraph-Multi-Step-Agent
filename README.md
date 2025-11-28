@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangGraph Learning Project
 
 This project contains Jupyter notebooks and Python scripts for learning and experimenting with LangGraph, a library for building stateful, multi-actor applications with LLMs.
@@ -44,3 +45,6 @@ This project contains Jupyter notebooks and Python scripts for learning and expe
 ## License
 
 MIT
+=======
+# LangGraph-Multi-Step-Agent
+>>>>>>> f19cc6d5dc775ebc267250d6eec89932ea45c686
