@@ -1,4 +1,4 @@
-# LangGraph Learning Project
+# LangGraph-Multi-Step-Agent
 
 This project contains Jupyter notebooks and Python scripts for learning and experimenting with LangGraph, a library for building stateful, multi-actor applications with LLMs.
 
